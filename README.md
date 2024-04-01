@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rudradeep2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rudradeep Sen
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning B.TECH
+- 💞️ I’m looking to collaborate on software industry
+- 📫 Reach me at rudradeep.sen23112002@gmail.com 
 
 <!---
 rudradeep2002/rudradeep2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
