@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rudradeep Sen
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning B.TECH
-- 💞️ I’m looking to collaborate on software industry
+- 💞️ I’m looking to collaborate on IT industry
 - 📫 Reach me at rudradeep.sen23112002@gmail.com 
 
 <!---
